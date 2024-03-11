@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Shaun aka @shauntriescode
+- 👋 Hi, I’m Shaun!
 - 👀 I’m working towards becoming a self-taught developer.
 - :writing_hand: The learning pathway I am currently on includes: HTML/CSS/Bootstrap/Tailwind/JavaScript/MERN/Angular/VueJS/Git/PHP and Wordpress.
 - :ghost: I am open to any opportunities!
