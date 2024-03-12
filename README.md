@@ -2,4 +2,4 @@
 - 👀 I’m working towards becoming a self-taught developer.
 - :writing_hand: The learning pathway I am currently on includes: HTML/CSS/Bootstrap/Tailwind/JavaScript/MERN/Angular/VueJS/Git/PHP/MySQL and Wordpress.
 - :ghost: I am open to any opportunities.
-- 📫 Follow my journey on Twitter: @shauntriescode
+- 📫 Let's connect on Twitter: @shauntriescode
