@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Shaun!
 - 👀 I’m working towards becoming a self-taught developer.
-- :writing_hand: The learning pathway I am currently on includes: HTML/CSS/Bootstrap/Tailwind/JavaScript/MERN/Angular/VueJS/Git/PHP/MySQL and Wordpress.
+- :writing_hand: The learning pathway I am currently on includes: HTML/CSS/Bootstrap/Tailwind/JavaScript/TypeScript/MERN/Angular/VueJS/Git/PHP/MySQL and Wordpress.
 - :ghost: I am open to any opportunities.
 - 📫 Let's connect on Twitter: @shauntriescode
