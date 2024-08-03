@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Shaun
-- 👀 I’m working towards becoming a self-taught developer
+- 👀 I am a self-taught software enginner with a passionate from web development and entrepreneurship.
 - :writing_hand: The learning pathway I am currently on includes: HTML / CSS / SASS / Bootstrap / Tailwind / JavaScript / TypeScript / MERN / Angular / VueJS / Git / PHP / MySQL / Wordpress
-- :ghost: I am open to any opportunities
-- 📫 Let's connect on Twitter: @shauntriescode
+- :ghost: I am open to opportunities.
+- 📫 Let's connect on X: @shauntriescode.
