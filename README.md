@@ -19,7 +19,7 @@ Hey there! 👋 I'm Shaun, a Full Stack Software Engineer with a passion for cra
 
 ### 💼 Professional Experience
 
-- Founder at Ravensbourne Web Designs
+- Founder / Developer at Ravensbourne Web Designs
 - Software Engineer at 100Devs
 - First Class Honours graduate in Business and Entrepreneurship
 
