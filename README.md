@@ -32,4 +32,4 @@ Hey there! 👋 I'm Shaun, a Full Stack Software Engineer with a passion for cra
 
 - LinkedIn: [Shaun Wilson](https://www.linkedin.com/in/shaunbrianwilson/)
 - Portfolio: [theshaunwilson.com](https://theshaunwilson.com)
-- X: [Shaun Wilson](https://x.com/theshaunwilsxn)
+- X: [theshaunwilsxn](https://x.com/theshaunwilsxn)
