@@ -13,9 +13,9 @@ Hey there! 👋 I'm Shaun, a Full Stack Software Engineer with a passion for cra
 
 ### 🚀 What I'm Up To
 
-- 🔭 Currently working on: A full-stack web application using the MERN stack
-- 🌱 Learning: Advanced React patterns and NextJS
-- 👯 Looking to collaborate on: Open source projects in the web development space
+- Currently working on: A full-stack web application using the MERN stack
+- Learning: Advanced React patterns and NextJS
+- Looking to collaborate on: Open source projects in the web development space
 
 ### 💼 Professional Experience
 
