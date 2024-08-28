@@ -30,7 +30,6 @@ Hey there! 👋 I'm Shaun, a Full Stack Software Engineer with a passion for cra
 
 ### 📫 Let's Connect!
 
-- X: [theshaunwilsxn](https://x.com/theshaunwilsxn)
 - LinkedIn: [Shaun Wilson](https://www.linkedin.com/in/shaunbrianwilson/)
 - Portfolio: [theshaunwilson.com](https://theshaunwilson.com)
 
