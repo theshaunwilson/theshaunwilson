@@ -61,10 +61,6 @@ See [my website](https://theshaunwilson.com/) for more information!
 
 <h1 align="center">Technologies</h1>
 
-<h1 align="center">Technologies</h1>
-
-<h1 align="center">Technologies</h1>
-
 <p align="center">
     <img src="https://img.shields.io/badge/HTML5-white?style=for-the-badge&logo=html5&logoColor=black&labelColor=white&color=white" alt="HTML5" />
     <img src="https://img.shields.io/badge/CSS3-white?style=for-the-badge&logo=css3&logoColor=black&labelColor=white&color=white" alt="CSS3" />
