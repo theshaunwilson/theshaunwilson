@@ -75,7 +75,7 @@ See [my website](https://theshaunwilson.com/) for more information!
     <img src="https://img.shields.io/badge/Python-white?style=for-the-badge&logo=python&logoColor=black&labelColor=white&color=white" alt="Python" />
     <img src="https://img.shields.io/badge/Jest-white?style=for-the-badge&logo=jest&logoColor=black&labelColor=white&color=white" alt="Jest" />
     <img src="https://img.shields.io/badge/Git-white?style=for-the-badge&logo=git&logoColor=black&labelColor=white&color=white" alt="Git" />
-    <img src="https://img.shields.io/badge/AWS-white?style=for-the-badge&logo=amazonaws&logoColor=black&labelColor=white&color=white" alt="AWS" />
+    <img src="https://img.shields.io/badge/AWS-white?style=for-the-badge&logoColor=black&labelColor=white&color=white" alt="AWS" />
 </p>
 
 <h1 align="center">Connect</h1>
