@@ -1,4 +1,4 @@
-<img src="/images/banner.png" width="100%">
+<img src="/images/banner-bw.png" width="100%">
 
 <p align="center">
   <a href="https://theshaunwilson.com/" target="_blank">
@@ -15,7 +15,7 @@
   </a>
 </p>
 
-Full-stack software engineer with strong business acumen. Proficient in MERN stack development, creating responsive and scalable web applications. First Class Honours graduate in Business and Entrepreneurship, bridging the gap between innovative tech solutions and strategic business goals.
+Full-stack software engineer motivated by technology's power to drive innovation and create value. First Class Honours graduate in Business and Entrepreneurship, combining technical expertise with strategic business acumen.
 
 See [my website](https://theshaunwilson.com/) for more information!
 
@@ -25,12 +25,12 @@ See [my website](https://theshaunwilson.com/) for more information!
     <td width="50%" valign="top">
       <h3 align="center">Fact Or Fiction</h3>
         <br />
-        <a target="_blank" href="https://your-project-url.com">
+        <a target="_blank" href="https://fact-or-fiction-shaun.netlify.app/">
             <img src="path-to-your-project-gif.gif" width="100%" alt="Fact Or Fiction App"/>
         </a>
         <br />
         <p align="center">
-          <a href="https://github.com/your-username/fact-or-fiction" target="_blank">
+          <a href="https://github.com/theshaunwilson/full-stack-fact-sharing-app" target="_blank">
             <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
           </a>  
           <a href="https://your-project-url.com" target="_blank">
