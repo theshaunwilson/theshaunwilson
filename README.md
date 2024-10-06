@@ -17,7 +17,7 @@
 
 Full-stack software engineer with strong business acumen. Proficient in MERN stack development, creating responsive and scalable web applications. First Class Honours graduate in Business and Entrepreneurship, bridging the gap between innovative tech solutions and strategic business goals.
 
-See [my website](https://your-website-url.com) for more information!
+See [my website](https://theshaunwilson.com/) for more information!
 
 <h1 align="center">Projects</h1>
 <table bordercolor="#66b2b2">
