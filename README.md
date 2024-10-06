@@ -2,16 +2,16 @@
 
 <p align="center">
   <a href="https://theshaunwilson.com/" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=23555f&style=plastic&logo=react&logo-color=white"/>
+    <img src="https://img.shields.io/badge/Website-white?style=for-the-badge&logo=google-chrome&logoColor=black"/>
   </a>
   <a href="https://www.linkedin.com/in/shaunbrianwilson/" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=|&message=LINKED-IN&color=cdf998&style=plastic&logo=linkedin&logo-color=white"/>
+    <img src="https://img.shields.io/badge/LinkedIn-white?style=for-the-badge&logo=linkedin&logoColor=black"/>
   </a>
   <a href="https://x.com/theshaunwilsxn" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=|&message=TWITTER&color=23555f&style=plastic&logo=twitter&logo-color=white"/>
+    <img src="https://img.shields.io/badge/Twitter-white?style=for-the-badge&logo=twitter&logoColor=black"/>
   </a>
   <a href="https://your-resume-url.com" target="_blank">
-      <img src="https://img.shields.io/static/v1?label=|&message=RESUME&color=23555f&style=plastic&logo=react&logo-color=white"/>
+    <img src="https://img.shields.io/badge/Resume-white?style=for-the-badge&logo=readme&logoColor=black"/>
   </a>
 </p>
 
@@ -31,10 +31,10 @@ See [my website](https://theshaunwilson.com/) for more information!
         <br />
         <p align="center">
           <a href="https://github.com/theshaunwilson/full-stack-fact-sharing-app" target="_blank">
-            <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
+            <img src="https://img.shields.io/badge/Repo-white?style=for-the-badge&logo=github&logoColor=black"/>
           </a>  
-          <a href="https://your-project-url.com" target="_blank">
-            <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
+          <a href="https://fact-or-fiction-shaun.netlify.app/" target="_blank">
+            <img src="https://img.shields.io/badge/Website-white?style=for-the-badge&logo=google-chrome&logoColor=black"/>
           </a>
       </p>
         <p><strong>React, Supabase, JavaScript</strong> - An interactive fact-sharing application with features for discovering, sharing, and engaging with fascinating facts on various topics.</p>
@@ -48,10 +48,10 @@ See [my website](https://theshaunwilson.com/) for more information!
         <br />
         <p align="center">
           <a href="https://github.com/your-username/ecommerce-platform" target="_blank">
-            <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
+            <img src="https://img.shields.io/badge/Repo-white?style=for-the-badge&logo=github&logoColor=black"/>
           </a>
           <a href="https://your-ecommerce-project-url.com" target="_blank">
-            <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
+            <img src="https://img.shields.io/badge/Website-white?style=for-the-badge&logo=google-chrome&logoColor=black"/>
           </a>
       </p>
         <p><strong>MERN Stack, TypeScript</strong> - A fully responsive e-commerce platform with user authentication, product management, and secure payment processing.</p>
@@ -62,30 +62,30 @@ See [my website](https://theshaunwilson.com/) for more information!
 <h1 align="center">Technologies</h1>
 
 <p align="center">
-    <img src="https://img.shields.io/static/v1?label=|&message=HTML5&color=23555f&style=plastic&logo=html5"/>
-    <img src="https://img.shields.io/static/v1?label=|&message=CSS3&color=285f65&style=plastic&logo=css3"/>
-    <img src="https://img.shields.io/static/v1?label=|&message=JAVASCRIPT&color=3c7f5d&style=plastic&logo=javascript"/>
-    <img src="https://img.shields.io/static/v1?label=|&message=REACT.JS&color=4a935c&style=plastic&logo=react"/>
-    <img src="https://img.shields.io/static/v1?label=|&message=TYPESCRIPT&color=4a935c&style=plastic&logo=typescript"/>
-    <img src="https://img.shields.io/static/v1?label=|&message=NODE.JS&color=43853d&style=plastic&logo=node.js"/>
-    <img src="https://img.shields.io/static/v1?label=|&message=EXPRESS&color=bbb111&style=plastic&logo=express"/>
-    <img src="https://img.shields.io/static/v1?label=|&message=MONGO-DB&color=cdd148&style=plastic&logo=mongodb"/>
-    <img src="https://img.shields.io/static/v1?label=|&message=GIT&color=cbb148&style=plastic&logo=git"/>
+    <img src="https://img.shields.io/badge/HTML5-white?style=for-the-badge&logo=html5&logoColor=black"/>
+    <img src="https://img.shields.io/badge/CSS3-white?style=for-the-badge&logo=css3&logoColor=black"/>
+    <img src="https://img.shields.io/badge/JavaScript-white?style=for-the-badge&logo=javascript&logoColor=black"/>
+    <img src="https://img.shields.io/badge/React-white?style=for-the-badge&logo=react&logoColor=black"/>
+    <img src="https://img.shields.io/badge/TypeScript-white?style=for-the-badge&logo=typescript&logoColor=black"/>
+    <img src="https://img.shields.io/badge/Node.js-white?style=for-the-badge&logo=node.js&logoColor=black"/>
+    <img src="https://img.shields.io/badge/Express-white?style=for-the-badge&logo=express&logoColor=black"/>
+    <img src="https://img.shields.io/badge/MongoDB-white?style=for-the-badge&logo=mongodb&logoColor=black"/>
+    <img src="https://img.shields.io/badge/Git-white?style=for-the-badge&logo=git&logoColor=black"/>
 </p>
 
 <h1 align="center">Connect</h1>
 
 <p align="center">
   <a href="https://theshaunwilson.com/" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=23555f&style=plastic&logo=react&logo-color=white"/>
+    <img src="https://img.shields.io/badge/Website-white?style=for-the-badge&logo=google-chrome&logoColor=black"/>
   </a>
   <a href="https://www.linkedin.com/in/shaunbrianwilson/" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=|&message=LINKED-IN&color=cdf998&style=plastic&logo=linkedin&logo-color=white"/>
+    <img src="https://img.shields.io/badge/LinkedIn-white?style=for-the-badge&logo=linkedin&logoColor=black"/>
   </a>
   <a href="https://x.com/theshaunwilsxn" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=|&message=TWITTER&color=23555f&style=plastic&logo=twitter&logo-color=white"/>
+    <img src="https://img.shields.io/badge/Twitter-white?style=for-the-badge&logo=twitter&logoColor=black"/>
   </a>
   <a href="https://your-resume-url.com" target="_blank">
-      <img src="https://img.shields.io/static/v1?label=|&message=RESUME&color=23555f&style=plastic&logo=react&logo-color=white"/>
+    <img src="https://img.shields.io/badge/Resume-white?style=for-the-badge&logo=readme&logoColor=black"/>
   </a>
 </p>
