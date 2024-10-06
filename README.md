@@ -1,4 +1,4 @@
-<img src="https://your-banner-image-url-here.jpg" width="100%">
+<img src="/images/banner.png" width="100%">
 
 <p align="center">
   <a href="https://theshaunwilson.com/" target="_blank">
@@ -89,4 +89,3 @@ See [my website](https://theshaunwilson.com/) for more information!
       <img src="https://img.shields.io/static/v1?label=|&message=RESUME&color=23555f&style=plastic&logo=react&logo-color=white"/>
   </a>
 </p>
-
