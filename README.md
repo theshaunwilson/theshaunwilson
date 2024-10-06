@@ -63,15 +63,18 @@ See [my website](https://theshaunwilson.com/) for more information!
 
 <h1 align="center">Technologies</h1>
 
+<h1 align="center">Technologies</h1>
+
 <p align="center">
     <img src="https://img.shields.io/badge/HTML5-white?style=for-the-badge&logo=html5&logoColor=black&labelColor=white&color=white" alt="HTML5" />
     <img src="https://img.shields.io/badge/CSS3-white?style=for-the-badge&logo=css3&logoColor=black&labelColor=white&color=white" alt="CSS3" />
+    <img src="https://img.shields.io/badge/SASS-white?style=for-the-badge&logo=sass&logoColor=black&labelColor=white&color=white" alt="SASS" />
+    <img src="https://img.shields.io/badge/Bootstrap-white?style=for-the-badge&logo=bootstrap&logoColor=black&labelColor=white&color=white" alt="Bootstrap" />
+    <img src="https://img.shields.io/badge/Tailwind_CSS-white?style=for-the-badge&logo=tailwind-css&logoColor=black&labelColor=white&color=white" alt="Tailwind CSS" />
     <img src="https://img.shields.io/badge/JavaScript-white?style=for-the-badge&logo=javascript&logoColor=black&labelColor=white&color=white" alt="JavaScript" />
     <img src="https://img.shields.io/badge/TypeScript-white?style=for-the-badge&logo=typescript&logoColor=black&labelColor=white&color=white" alt="TypeScript" />
     <img src="https://img.shields.io/badge/React-white?style=for-the-badge&logo=react&logoColor=black&labelColor=white&color=white" alt="React" />
     <img src="https://img.shields.io/badge/Redux-white?style=for-the-badge&logo=redux&logoColor=black&labelColor=white&color=white" alt="Redux" />
-    <img src="https://img.shields.io/badge/Tailwind_CSS-white?style=for-the-badge&logo=tailwind-css&logoColor=black&labelColor=white&color=white" alt="Tailwind CSS" />
-    <img src="https://img.shields.io/badge/Bootstrap-white?style=for-the-badge&logo=bootstrap&logoColor=black&labelColor=white&color=white" alt="Bootstrap" />
     <img src="https://img.shields.io/badge/Node.js-white?style=for-the-badge&logo=node.js&logoColor=black&labelColor=white&color=white" alt="Node.js" />
     <img src="https://img.shields.io/badge/Express-white?style=for-the-badge&logo=express&logoColor=black&labelColor=white&color=white" alt="Express" />
     <img src="https://img.shields.io/badge/MongoDB-white?style=for-the-badge&logo=mongodb&logoColor=black&labelColor=white&color=white" alt="MongoDB" />
