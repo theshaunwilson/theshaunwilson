@@ -62,24 +62,24 @@ See [my website](https://theshaunwilson.com/) for more information!
 <h1 align="center">Technologies</h1>
 
 <p align="center">
-    <img src="https://img.shields.io/badge/HTML5-2d3436?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-    <img src="https://img.shields.io/badge/CSS3-636e72?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
-    <img src="https://img.shields.io/badge/SASS-2d3436?style=for-the-badge&logo=sass&logoColor=white" alt="SASS" />
-    <img src="https://img.shields.io/badge/Bootstrap-636e72?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap" />
-    <img src="https://img.shields.io/badge/Tailwind_CSS-2d3436?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
-    <img src="https://img.shields.io/badge/JavaScript-636e72?style=for-the-badge&logo=javascript&logoColor=white" alt="JavaScript" />
-    <img src="https://img.shields.io/badge/TypeScript-2d3436?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
-    <img src="https://img.shields.io/badge/React-636e72?style=for-the-badge&logo=react&logoColor=white" alt="React" />
-    <img src="https://img.shields.io/badge/Redux-2d3436?style=for-the-badge&logo=redux&logoColor=white" alt="Redux" />
-    <img src="https://img.shields.io/badge/Node.js-636e72?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
-    <img src="https://img.shields.io/badge/Express-2d3436?style=for-the-badge&logo=express&logoColor=white" alt="Express" />
-    <img src="https://img.shields.io/badge/MongoDB-636e72?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
-    <img src="https://img.shields.io/badge/GraphQL-2d3436?style=for-the-badge&logo=graphql&logoColor=white" alt="GraphQL" />
-    <img src="https://img.shields.io/badge/Python-636e72?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-    <img src="https://img.shields.io/badge/Jest-2d3436?style=for-the-badge&logo=jest&logoColor=white" alt="Jest" />
-    <img src="https://img.shields.io/badge/Git-636e72?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-    <img src="https://img.shields.io/badge/WordPress-2d3436?style=for-the-badge&logo=wordpress&logoColor=white" alt="WordPress" />
-    <img src="https://img.shields.io/badge/Webpack-636e72?style=for-the-badge&logo=webpack&logoColor=white" alt="Webpack" />
+    <img src="https://img.shields.io/badge/HTML5-007ACC?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+    <img src="https://img.shields.io/badge/CSS3-007ACC?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+    <img src="https://img.shields.io/badge/SASS-007ACC?style=for-the-badge&logo=sass&logoColor=white" alt="SASS" />
+    <img src="https://img.shields.io/badge/Bootstrap-007ACC?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap" />
+    <img src="https://img.shields.io/badge/Tailwind_CSS-007ACC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
+    <img src="https://img.shields.io/badge/JavaScript-007ACC?style=for-the-badge&logo=javascript&logoColor=white" alt="JavaScript" />
+    <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+    <img src="https://img.shields.io/badge/React-007ACC?style=for-the-badge&logo=react&logoColor=white" alt="React" />
+    <img src="https://img.shields.io/badge/Redux-007ACC?style=for-the-badge&logo=redux&logoColor=white" alt="Redux" />
+    <img src="https://img.shields.io/badge/Node.js-007ACC?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
+    <img src="https://img.shields.io/badge/Express-007ACC?style=for-the-badge&logo=express&logoColor=white" alt="Express" />
+    <img src="https://img.shields.io/badge/MongoDB-007ACC?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
+    <img src="https://img.shields.io/badge/GraphQL-007ACC?style=for-the-badge&logo=graphql&logoColor=white" alt="GraphQL" />
+    <img src="https://img.shields.io/badge/Python-007ACC?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+    <img src="https://img.shields.io/badge/Jest-007ACC?style=for-the-badge&logo=jest&logoColor=white" alt="Jest" />
+    <img src="https://img.shields.io/badge/Git-007ACC?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+    <img src="https://img.shields.io/badge/WordPress-007ACC?style=for-the-badge&logo=wordpress&logoColor=white" alt="WordPress" />
+    <img src="https://img.shields.io/badge/Webpack-007ACC?style=for-the-badge&logo=webpack&logoColor=white" alt="Webpack" />
 </p>
 
 <h1 align="center">Connect</h1>
