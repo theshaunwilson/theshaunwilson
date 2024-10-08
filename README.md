@@ -78,8 +78,6 @@ I am currently open to any new clients or opportunities. Please feel free to con
     <img src="https://img.shields.io/badge/Python-007ACC?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
     <img src="https://img.shields.io/badge/Jest-007ACC?style=for-the-badge&logo=jest&logoColor=white" alt="Jest" />
     <img src="https://img.shields.io/badge/Git-007ACC?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-    <img src="https://img.shields.io/badge/WordPress-007ACC?style=for-the-badge&logo=wordpress&logoColor=white" alt="WordPress" />
-    <img src="https://img.shields.io/badge/Webpack-007ACC?style=for-the-badge&logo=webpack&logoColor=white" alt="Webpack" />
 </p>
 
 <h1 align="center">Connect</h1>
