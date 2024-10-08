@@ -17,7 +17,7 @@
 
 Full-stack software engineer motivated by technology's power to drive innovation and create value. First Class Honours graduate in Business and Entrepreneurship, combining technical expertise with strategic business acumen.
 
-See [my website](https://theshaunwilson.com/) for more information!
+I am currently open to any new clients or opportunities. Please feel free to contact me through email or Linkedin.
 
 <h1 align="center">Projects</h1>
 <table bordercolor="#66b2b2">
