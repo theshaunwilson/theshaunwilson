@@ -1,4 +1,4 @@
-<img src="/images/banner-bw.png" width="100%">
+![Animated Banner](/gifs/banner.gif)
 
 <p align="center">
   <a href="https://theshaunwilson.com/" target="_blank">
