@@ -1,4 +1,4 @@
-![Animated Banner](/gifs/banner.gif)
+![Animated Banner](/gif/banner.gif)
 
 <p align="center">
   <a href="https://theshaunwilson.com/" target="_blank">
