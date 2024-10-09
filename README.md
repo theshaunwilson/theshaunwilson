@@ -15,7 +15,7 @@
   </a>
 </p>
 
-Hey, Im Shaun! I am Software Engineer motivated by technology's power to create impacful results. I have a background in Business, earning a First Class Honours degree in Business and Entrepreneurship, which enables me to combine my technical expertise and business acumen to drive innovation and create tangible value.
+Hey, Im Shaun! I am Software Engineer motivated by technology's power to create impacful results. I have a background in Business, which enables me to combine my technical expertise and business acumen to drive innovation and create tangible value.
 
 I am currently open to any new clients or opportunities. Please feel free to contact me through email or Linkedin.
 
