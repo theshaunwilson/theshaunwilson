@@ -10,7 +10,7 @@
    <a href="https://www.codewars.com/users/theshaunwilson" target="_blank">
     <img src="https://img.shields.io/badge/Codewars-007ACC?style=for-the-badge&logo=codewars&logoColor=white" alt="Codewars" />
   </a>
-  <a href="https://drive.google.com/uc?export=download&id=1lE-Qkyzh_dl9lA7NXcpOsupq9OyI3z5p" target="_blank">
+  <a href="https://drive.google.com/uc?export=download&id=1P2IZl4k7gW6IHEQfwwXC4pJ7A4Fn6qvE" target="_blank">
     <img src="https://img.shields.io/badge/Resume-007ACC?style=for-the-badge&logo=readme&logoColor=white" alt="Resume" />
   </a>
 </p>
