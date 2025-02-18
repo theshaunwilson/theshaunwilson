@@ -15,9 +15,9 @@
   </a>
 </p>
 
-Hey, Im Shaun! I am Software Engineer motivated by technology's power to create impacful results. I have a background in Business, which enables me to combine my technical expertise and business acumen to drive innovation and create tangible value.
+Hey, I'm Shaun! I'm a Software Engineer driven by technology's potential to create meaningful impact. My unique blend of technical expertise and business knowledge allows me to develop innovative solutions that deliver real value.
 
-I am currently open to any new clients or opportunities. Please feel free to contact me through email or Linkedin.
+I'm currently open to new clients and opportunities. Feel free to reach out via email or LinkedIn.
 
 <h1 align="center">Projects</h1>
 <table bordercolor="#66b2b2">
