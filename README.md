@@ -7,6 +7,9 @@
   <a href="https://www.linkedin.com/in/shaunbrianwilson/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-007ACC?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
+   <a href="https://www.codewars.com/users/theshaunwilson" target="_blank">
+    <img src="https://img.shields.io/badge/Codewars-007ACC?style=for-the-badge&logo=codewars&logoColor=white" alt="Codewars" />
+  </a>
   <a href="https://your-resume-url.com" target="_blank">
     <img src="https://img.shields.io/badge/Resume-007ACC?style=for-the-badge&logo=readme&logoColor=white" alt="Resume" />
   </a>
