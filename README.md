@@ -10,7 +10,7 @@
    <a href="https://www.codewars.com/users/theshaunwilson" target="_blank">
     <img src="https://img.shields.io/badge/Codewars-007ACC?style=for-the-badge&logo=codewars&logoColor=white" alt="Codewars" />
   </a>
-  <a href="https://your-resume-url.com" target="_blank">
+  <a href="https://docs.google.com/document/d/1yiL3VpRyGEFlxu3F7MhBNk-AeDoP75eMyWMQJ32Fx5Y/export?format=pdf" target="_blank">
     <img src="https://img.shields.io/badge/Resume-007ACC?style=for-the-badge&logo=readme&logoColor=white" alt="Resume" />
   </a>
 </p>
