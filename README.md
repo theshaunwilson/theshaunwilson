@@ -19,29 +19,8 @@ Hey, I'm Shaun! I'm a Software Engineer driven by technology's potential to crea
 
 I'm currently open to new clients and opportunities. Please feel free to reach out to me through email or LinkedIn.
 
----
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=theshaunwilson&show_icons=true&theme=dark&hide_border=true)
 
-## 📊 GitHub Stats
-
-<table bordercolor="#30363d">
-  <tr>
-    <td width="50%" valign="top" align="center">
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=theshaunwilson&theme=dark&hide_border=true" alt="GitHub Streak" />
-    </td>
-    <td width="50%" valign="top">
-      <h3 style="color:#58a6ff;">Shaun Wilson's GitHub Stats</h3>
-      <p style="color:#c9d1d9;">
-        🔹 <strong>Total Stars Earned:</strong>  
-        🔹 <strong>Total Commits:</strong>  
-        🔹 <strong>Total PRs:</strong>  
-        🔹 <strong>Total Issues:</strong>  
-        🔹 <strong>Contributed to (last year):</strong>  
-      </p>
-    </td>
-  </tr>
-</table>
-
----
 
 <h1 align="center">Projects</h1>
 <table bordercolor="#66b2b2">
