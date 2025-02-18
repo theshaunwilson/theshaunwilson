@@ -23,13 +23,23 @@ I'm currently open to new clients and opportunities. Please feel free to reach o
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=theshaunwilson&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <br />
-  <img src="https://streak-stats.demolab.com/?user=theshaunwilson&theme=radical" alt="GitHub Streak" />
-  <br />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=theshaunwilson&layout=compact&theme=radical" alt="Top Languages" />
-</p>
+<table bordercolor="#30363d">
+  <tr>
+    <td width="50%" valign="top" align="center">
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=theshaunwilson&theme=dark&hide_border=true" alt="GitHub Streak" />
+    </td>
+    <td width="50%" valign="top">
+      <h3 style="color:#58a6ff;">Shaun Wilson's GitHub Stats</h3>
+      <p style="color:#c9d1d9;">
+        🔹 <strong>Total Stars Earned:</strong>  
+        🔹 <strong>Total Commits:</strong>  
+        🔹 <strong>Total PRs:</strong>  
+        🔹 <strong>Total Issues:</strong>  
+        🔹 <strong>Contributed to (last year):</strong>  
+      </p>
+    </td>
+  </tr>
+</table>
 
 ---
 
