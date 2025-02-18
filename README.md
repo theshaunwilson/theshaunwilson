@@ -7,9 +7,6 @@
   <a href="https://www.linkedin.com/in/shaunbrianwilson/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-007ACC?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="https://x.com/theshaunwilsxn" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-007ACC?style=for-the-badge&logo=x&logoColor=white" alt="Twitter" />
-  </a>
   <a href="https://your-resume-url.com" target="_blank">
     <img src="https://img.shields.io/badge/Resume-007ACC?style=for-the-badge&logo=readme&logoColor=white" alt="Resume" />
   </a>
@@ -17,7 +14,7 @@
 
 Hey, I'm Shaun! I'm a Software Engineer driven by technology's potential to create meaningful impact. My unique blend of technical expertise and business knowledge allows me to develop innovative solutions that deliver real value.
 
-I'm currently open to new clients and opportunities. Feel free to reach out via email or LinkedIn.
+I'm currently open to new clients and opportunities. Please feel free to reach out to me through email or LinkedIn.
 
 <h1 align="center">Projects</h1>
 <table bordercolor="#66b2b2">
@@ -78,21 +75,4 @@ I'm currently open to new clients and opportunities. Feel free to reach out via 
     <img src="https://img.shields.io/badge/Python-007ACC?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
     <img src="https://img.shields.io/badge/Jest-007ACC?style=for-the-badge&logo=jest&logoColor=white" alt="Jest" />
     <img src="https://img.shields.io/badge/Git-007ACC?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-</p>
-
-<h1 align="center">Connect</h1>
-
-<p align="center">
-  <a href="https://theshaunwilson.com/" target="_blank">
-    <img src="https://img.shields.io/badge/Website-007ACC?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website" />
-  </a>
-  <a href="https://www.linkedin.com/in/shaunbrianwilson/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-007ACC?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://x.com/theshaunwilsxn" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-007ACC?style=for-the-badge&logo=x&logoColor=white" alt="Twitter" />
-  </a>
-  <a href="https://your-resume-url.com" target="_blank">
-    <img src="https://img.shields.io/badge/Resume-007ACC?style=for-the-badge&logo=readme&logoColor=white" alt="Resume" />
-  </a>
 </p>
