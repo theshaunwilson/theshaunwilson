@@ -7,7 +7,7 @@
   <a href="https://www.linkedin.com/in/shaunbrianwilson/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-007ACC?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-   <a href="https://www.codewars.com/users/theshaunwilson" target="_blank">
+   <a href="https://www.codewars.com/users/theshaunwilsxn" target="_blank">
     <img src="https://img.shields.io/badge/Codewars-007ACC?style=for-the-badge&logo=codewars&logoColor=white" alt="Codewars" />
   </a>
   <a href="https://drive.google.com/uc?export=download&id=1P2IZl4k7gW6IHEQfwwXC4pJ7A4Fn6qvE" target="_blank">
