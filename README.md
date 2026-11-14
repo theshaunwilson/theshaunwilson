@@ -8,7 +8,7 @@
   <a href="https://www.linkedin.com/in/shaunbrianwilson/"><img src="https://img.shields.io/badge/LinkedIn-007ACC?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 </p>
 
-I work on real client projects at [100Devs](https://100devs.org), and previously ran a small web studio delivering paid client builds.
+I work on real client projects at [100Devs](https://100devs.org) and previously ran a small web studio that delivered paid client builds.
 
 In my spare time, I build and ship complete products. Most recently, that's **[DevFetch](https://devfetch.site)**, a SaaS with Stripe subscriptions, OAuth, file storage, and AI features on Next.js and PostgreSQL.
 
