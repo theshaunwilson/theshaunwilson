@@ -11,7 +11,7 @@
 
 Hi, I'm Shaun, a full-stack TypeScript engineer in London.
 
-I build and ship complete products. Most recently that's **[DevFetch](https://devfetch.site)**, a SaaS with Stripe subscriptions, OAuth, file storage and AI features on Next.js and PostgreSQL. Before that I ran a small web studio delivering paid client builds, including a full-stack payroll app.
+I build and ship complete products. Most recently that's **[DevFetch](https://devfetch.site)**, a SaaS with Stripe subscriptions, OAuth, file storage and AI features on Next.js and PostgreSQL. Before that I ran a small web studio delivering paid client builds, including a full-stack payroll app, and worked on real client projects at [100Devs Agency](https://100devs.org).
 
 **Open to software engineering roles:** London hybrid or remote.
 
