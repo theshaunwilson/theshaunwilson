@@ -1,12 +1,6 @@
 ![Animated Banner](/gif/banner.gif)
 
-<h2 align="center">Shaun Wilson</h2>
-<p align="center"><strong>Full-stack TypeScript engineer · London</strong></p>
-
-<p align="center">
-  <a href="https://devfetch.site"><img src="https://img.shields.io/badge/DevFetch-live-007ACC?style=for-the-badge&logo=vercel&logoColor=white" alt="DevFetch live" /></a>
-  <a href="https://www.linkedin.com/in/shaunbrianwilson/"><img src="https://img.shields.io/badge/LinkedIn-007ACC?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-</p>
+<h2 align="center">Shaun Wilson</h2> <p align="center"><strong>Full-stack TypeScript engineer · London</strong></p> <p align="center"><a href="https://www.linkedin.com/in/shaunbrianwilson/">LinkedIn</a></p>
 
 I work on real client projects at [100Devs](https://100devs.org) and previously ran a small web studio that delivered paid client builds.
 
