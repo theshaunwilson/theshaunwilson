@@ -12,7 +12,7 @@ I work on real client projects at [100Devs](https://100devs.org) and previously 
 
 In my spare time, I build and ship complete products. Most recently, that's **[DevFetch](https://devfetch.site)**, a SaaS with Stripe subscriptions, OAuth, file storage, and AI features on Next.js and PostgreSQL.
 
-**Open to software engineering roles:** remote (UK, Europe, or US with overlap hours) or hybrid in London.
+**Open to software engineering roles:** remote (UK, Europe, or US with overlapping hours) or hybrid in London.
 
 ---
 
